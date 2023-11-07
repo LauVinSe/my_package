@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/vincent/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/vincent/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/vincent/catkin_ws/src/dobot_magician_driver/include/**",
+        "/home/vincent/catkin_ws/src/my_package/include/**",
+        "/home/vincent/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/vincent/catkin_ws/src/sensor_project/include/**",
+        "/home/vincent/catkin_ws/src/test/include/**",
+        "/home/vincent/catkin_ws/src/usb_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
